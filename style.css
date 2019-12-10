@@ -1,0 +1,13 @@
+.carousel-inner img {
+    width: 100%;
+ }
+ nav {
+     position: sticky;
+ }
+ body {background-color: grey;
+
+ }
+
+ #but {
+     background-color: transparent;
+ }
